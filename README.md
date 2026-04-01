@@ -56,7 +56,7 @@
 
 ## 🖼 Dashboard Preview
 
-<img src="hr_dashboard.png" alt="Alt text for the image" width="desired_width">
+<img src="HR_Dashboard.png" alt="Alt text for the image" width="desired_width">
 
 ## 🎓 Learning Purpose
 - This project helps in:
